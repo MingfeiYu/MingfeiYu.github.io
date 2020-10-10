@@ -24,3 +24,6 @@ Fujita Lab, University of Tokyo, Japan
 - Advisor: Prof. Masahiro Fujita
 - Construct a cyber phisical system with high reliability and performance for the big data processing of IoT and mobile devices
 - Develop parallel scheudling algorithms for the high computing performance of deep learning implementations(CNN, Attention, etc)  
+
+## Contact Me
+E-mail: yu@cad.t.u-tokyo.ac.jp
