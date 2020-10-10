@@ -12,10 +12,10 @@ Mingfei Yu (郁 明非) is currently a first year master candidate at Electrical
 
 ## Awards & Scholarships
 ### 2020
-- **Honorable Mention(4th Place)** on **CAD Contest at ICCAD:X-value Equivalence Checking**
+- **Honorable Mention(4th Place)** on **CAD Contest at ICCAD: X-value Equivalence Checking**
 - **Best Video Award** at **DAC Young Fellow Program**
 - **DAC Young Fellow Member**
-- **1st Place** on **Programming Contest at IWLS:Machine Learning & Logic Synthesis**
+- **1st Place** on **Programming Contest at IWLS: Machine Learning & Logic Synthesis**
 
 ## Research Experience
 ### Graduate Research Assistant
