@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## Biography
+Mingfei Yu (郁 明非) is currently a first year master candidate at Electrical Engineering and Information Systems, Graduate School of Engineering, University of Tokyo, Japan, under the supervision of [Prof. Masahiro Fujita](https://www.cad.t.u-tokyo.ac.jp/professor.html). His research interest includes the development of scheduling algorithms for the parallelization of modern deep learning implementations, and CAD(logic synthesis, verification, etc) for VLSI. 
 
-You can use the [editor on GitHub](https://github.com/MingfeiYu/resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Education 
+- Mar. 2020 - present: Master candidate at EEIS, Graduate School of Engineering, University of Tokyo
+- Sept. 2019 - Feb. 2020: Research student at EEIS, Graduate School of Engineering, University of Tokyo
+- Sept. 2015 - Jun. 2019: Bachelor at Department of Electrical Engineering, Zhejiang University, Hangzhou, Zhejiang, China
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Publications
+### [ASPDAC'21] A Decomposition-Based Synthesis Algorithm for Sparse Matrix-Vector Multiplication in Parallel Communication Structure
+- __Mingfei Yu__, Ruitao Gao and Masahiro Fujita
 
-### Markdown
+## Awards & Scholarships
+### 2020
+- Honorable Mention(4th Place) on CAD Contest at ICCAD(X-value Equivalence Checking)
+- Best Video Award** at DAC Young Fellow Program
+- DAC Young Fellow Member
+- 1st Place on Programming Contest at IWLS(Machine Learning & Logic Synthesis)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MingfeiYu/resume/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Research Experience
+### Graduate Research Assistant
+Fujita Lab, University of Tokyo, Japan
+- Sept. 2020 - present
+- Advisor: Prof. Masahiro Fujita
+- Construct a cyber phisical system with high reliability and performance for the big data processing of IoT and mobile devices
+- Develop parallel scheudling algorithms for the high computing performance of deep learning implementations(CNN, Attention, etc)  
