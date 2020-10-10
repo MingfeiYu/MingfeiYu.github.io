@@ -4,7 +4,7 @@ Mingfei Yu (郁 明非) is currently a first year master candidate at Electrical
 ## Education 
 - Mar. 2020 - present: Master candidate at EEIS, Graduate School of Engineering, University of Tokyo
 - Sept. 2019 - Feb. 2020: Research student at EEIS, Graduate School of Engineering, University of Tokyo
-- Sept. 2015 - Jun. 2019: Bachelor at Department of Electrical Engineering, Zhejiang University, Hangzhou, Zhejiang, China
+- Sept. 2015 - Jun. 2019: Bachelor at Department of Electrical Engineering, Zhejiang University, China
 
 ## Publications
 ### [ASPDAC'21] A Decomposition-Based Synthesis Algorithm for Sparse Matrix-Vector Multiplication in Parallel Communication Structure
