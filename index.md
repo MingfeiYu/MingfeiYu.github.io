@@ -1,4 +1,4 @@
-<div align=center> <img src="./Pics/MingfeiYu_pic.jpg" alt="MingfeiYu" title="Profile photo" width="540" />
+<img src="./Pics/MingfeiYu_pic.jpg" alt="MingfeiYu" title="Profile photo" width="540" div align=center />
   
 ## Biography
 Mingfei Yu (郁 明非) is currently a first year master candidate at Electrical Engineering and Information Systems, Graduate School of Engineering, University of Tokyo, Japan, under the supervision of [Prof. Masahiro Fujita](https://www.cad.t.u-tokyo.ac.jp/professor.html). His research interest includes the development of scheduling algorithms for the parallelization of modern deep learning implementations, and CAD(logic synthesis, verification, etc) for VLSI. 
