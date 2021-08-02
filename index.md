@@ -16,7 +16,7 @@ Mingfei Yu (郁 明非) is currently a first year master candidate at Electrical
 ### [DATE'21] Logic Synthesis for Generalization and Learning Addition
 - Yukio Miyasaka, Xinpei Zhang, __Mingfei Yu__, Qingyang Yi and Masahiro Fujita
 ### [IEICE VLSI Design Technologies(VLD)'21] Scheduling Sparse Matrix-Vector Multiplication onto Parallel Communication Architecture
-- __Mingfei Yu__, Ruitao Gao and Masahiro Fujita ,'' in IEICE VLSI Design Technologies(VLD) 2021. 
+- __Mingfei Yu__, Ruitao Gao and Masahiro Fujita 
 
 ## Awards & Scholarships
 ### 2021
