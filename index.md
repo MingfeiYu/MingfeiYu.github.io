@@ -49,5 +49,5 @@ Computer Systems Lab, Cornell University, Ithaca, New York, USA
 
 ## Work Experience
 ### Research Intern
-System-Asic, NVIDIA, Shanghai, China
+System-ASIC, NVIDIA, Shanghai, China
 - **Research on error checking and correction(ECC) algorithms and their hardware implementations**: Surveyand design ECC algorithms meeting the demands of next generation of NVIDIA desktop GPU products, as well as realize their hardware implementations. High-level synthesis techniques are adopted in this project.
